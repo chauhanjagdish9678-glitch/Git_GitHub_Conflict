@@ -3,4 +3,8 @@ rgs = {
     name     = "RG-pyare"
     location = "Centralindia"
   }
+  RG2 = {
+    name     = "RG-pyarelal"
+    location = "Centralindia"
+  }
 }
