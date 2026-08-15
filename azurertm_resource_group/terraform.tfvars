@@ -9,7 +9,9 @@ rgs = {
   }
   RG3 = {
     name     = "RG-ram"
-=========
+    location = "Centralindia"
+  }
+  RG4 = {
     name     = "RG-ramlal"
     location = "Centralindia"
   }
